@@ -79,5 +79,23 @@ With the years I have already spent inside the university, I know how to code in
 ## [Cache Memory Simulation](https://github.com/Wads01/CSARCH2---Cache-Simulation) <br/>
 <img src="https://github.com/Wads01/Wads/assets/148616782/4758810b-aea7-44c9-944f-2550671de9b2"/>
 
+<hr/>
 
+<h2 align = "center"> ⚡ Stats ⚡ </h2>
+<br>
+<div align = "center">
+  
+  [![Wads' GitHub stats](https://github-readme-stats.vercel.app/api?username=Wads01&show_icons=true&theme=dracula&rank_icon=github&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wads' GitHub Streak](https://streak-stats.demolab.com/?user=Wads01&theme=dracula)](https://git.io/streak-stats)
+  <br/>
+  [![Wads' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wads01&border_radius=10&theme=dracula&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
+<br/><br/>
+<hr/>
+
+<h1 align = "center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=40&pause=1000&center=true&vCenter=true&random=false&width=450&lines=Thanks+For+Visiting!+%F0%9F%91%8D" alt="Typing SVG" /></a>
+</h1>
