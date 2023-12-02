@@ -1,1 +1,1 @@
-# Description WIP
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=40&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Greetings!+%F0%9F%91%8B;I+am+Wadee+Hernandez!)](https://git.io/typing-svg)
