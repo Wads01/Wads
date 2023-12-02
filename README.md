@@ -5,7 +5,7 @@
 
 <h3 align = "center"> A Computer Science Student in De La Salle University! </h3>
 
-<br>
+<br/>
 
 <div align = "center">
   
@@ -49,3 +49,35 @@
   
   <br/><br/><br/>
 </div>
+
+<hr/>
+<div align = "left">
+<h2 align = "left"> About Me </h2>
+  
+I was born in Malolos, Bulacan, and attended the Montessori School of Malolos from nursery to grade 6. When I was young, I was fascinated by computers and games because my Mom introduced them to me. I moved to Metro Manila and enrolled in La Salle Green Hills for high school, and now I am currently learning at De La Salle University. I enrolled in this university because to pursue my bachelor of science in computer science majoring in software technology.
+<br/><br/>
+  
+With the years I have already spent inside the university, I know how to code in multiple programming languages such as C, Java, Python, and Ruby. I have understood a lot of programming concepts, I have experience in databases and web development, I learned many algorithm techniques such as dynamic programming, greedy method, etc. and I learned the basics of Artificial Intelligence (AI) programming by creating a Sokoban Bot Solver which is one of my most favorite projects and I plan on improving it in the future to perform better.
+<br/><br/>
+
+<h2 align = "left"> Goals </h2>
+1. To learn a lot more about web development and artificial intelligence <br/>
+2. To have a fruitful internship experience in the future <br/>
+3. To land a software-related job that could serve a lot of people <br/>
+4. To be in the driver's seat in regard to AI evolution <br/>
+</div>
+<hr/>
+
+<h2 align = "center"> 🛠️ Best Projects (Currently) 🛠️ </h2>
+
+## [Sokoban Bot Solver](https://github.com/Wads01/Sokoban-Bot) <br/>
+<img src="https://github.com/Wads01/Wads/assets/148616782/2b24ad2a-dd50-4d62-ae0b-e34565026b30"/>
+
+## [Vending Machine Simulation](https://github.com/Wads01/Vending-Machine-Simulator) <br/>
+<img src="https://github.com/Wads01/CSARCH2---Cache-Simulation/assets/148616782/02b538b3-6aa8-4886-b43a-8d8c2c1fb08a"/>
+
+## [Cache Memory Simulation](https://github.com/Wads01/CSARCH2---Cache-Simulation) <br/>
+<img src="https://github.com/Wads01/Wads/assets/148616782/4758810b-aea7-44c9-944f-2550671de9b2"/>
+
+
+
