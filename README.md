@@ -11,7 +11,7 @@
   
   👨‍🎓 I'm currently pursuing **Bachelor of Science in Computer Science Major in Software Technology** 👨‍🎓
   
-  👨‍💻 I'm currently learning web development with **Java Swing** and **MySQL** 👨‍💻
+  👨‍💻 I'm currently learning **javaFX** and **Android Studio** 👨‍💻
   
   ❓ Ask me about any concerns -> **[here](https://github.com/Wads01/Wads/issues)** ❓ 
 
@@ -54,18 +54,19 @@
 <hr/>
 <div align = "left">
 <h2 align = "left"> About Me </h2>
-  
-I was born in Malolos, Bulacan, and attended the Montessori School of Malolos from nursery to grade 6. When I was young, I was fascinated by computers and games because my Mom introduced them to me. I moved to Metro Manila and enrolled in La Salle Green Hills for high school, and now I am currently learning at De La Salle University. I enrolled in this university because to pursue my bachelor of science in computer science majoring in software technology.
+I was born in Malolos, Bulacan, where I attended the Montessori School of Malolos from nursery through grade 6. My fascination with computers and games began early, thanks to my mother's introduction to technology. After moving to Metro Manila, I enrolled in La Salle Green Hills for high school and am currently pursuing a Bachelor of Science in Computer Science, majoring in Software Technology at De La Salle University.
 <br/><br/>
   
-With the years I have already spent inside the university, I know how to code in multiple programming languages such as C, Java, Python, and Ruby. I have understood a lot of programming concepts, I have experience in databases and web development, I learned many algorithm techniques such as dynamic programming, greedy method, etc. and I learned the basics of Artificial Intelligence (AI) programming by creating a Sokoban Bot Solver which is one of my most favorite projects and I plan on improving it in the future to perform better.
+Throughout my time at university, I have immersed myself in various software development projects, gaining hands-on experience in both web and mobile application development. I have utilized modern technologies such as SvelteKit, Tailwind, and Supabase for web applications, and I have developed a music player app using Kotlin and Android Studio, leveraging ExoPlayer for seamless audio playback.
+
+My projects have allowed me to apply my knowledge of programming concepts, database management, and version control practices. Additionally, I am well-versed in Agile methodologies, having collaborated in team settings to deliver client-focused solutions. I am passionate about creating efficient, user-friendly applications and continuously strive to enhance my skills and knowledge in the ever-evolving tech landscape.
 <br/><br/>
 
 <h2 align = "left"> Goals </h2>
 1. To learn a lot more about web development and artificial intelligence <br/>
 2. To have a fruitful internship experience in the future <br/>
 3. To land a software-related job that could serve a lot of people <br/>
-4. To be in the driver's seat in regard to AI evolution <br/>
+4. To be in the driver's seat in regard to AI evolution ( in retrospect, might be too much ) <br/>
 </div>
 <hr/>
 
