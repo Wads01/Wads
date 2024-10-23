@@ -35,8 +35,9 @@
 <br/>
 <div align = "center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,java,py,ruby,mysql"/><br>
-     <img src="https://skillicons.dev/icons?i=html,css,vscode,discord,github"/>
+     <img src="https://skillicons.dev/icons?i=svelte,tailwind,supabase,vite,ts"/><br>
+     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin"/><br>
+     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,mysql,kali"/>
    </a>
 </div>
 
