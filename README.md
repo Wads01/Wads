@@ -70,14 +70,16 @@ With the years I have already spent inside the university, I know how to code in
 
 <h2 align = "center"> 🛠️ Best Projects (Currently) 🛠️ </h2>
 
+## [Software Engineering](https://github.com/Sand77x/GGCN-Website) <br/>
+![image](https://github.com/user-attachments/assets/7c9c40c5-dc8d-47c2-b808-1ea8585f58c4)
+
+## [Mobile Music Application](https://github.com/Ralf090102/SonuSync) <br/>
+<img src="https://github.com/user-attachments/assets/cadbf1ec-b2f4-41cd-949d-490704ffb699" alt="image 1" width="250"/>
+
+## [Short Demo](https://github.com/user-attachments/assets/44acf043-bd8e-48b1-821d-25a537b4a1ea)
+
 ## [Sokoban Bot Solver](https://github.com/Wads01/Sokoban-Bot) <br/>
 <img src="https://github.com/Wads01/Wads/assets/148616782/2b24ad2a-dd50-4d62-ae0b-e34565026b30"/>
-
-## [Vending Machine Simulation](https://github.com/Wads01/Vending-Machine-Simulator) <br/>
-<img src="https://github.com/Wads01/CSARCH2---Cache-Simulation/assets/148616782/02b538b3-6aa8-4886-b43a-8d8c2c1fb08a"/>
-
-## [Cache Memory Simulation](https://github.com/Wads01/CSARCH2---Cache-Simulation) <br/>
-<img src="https://github.com/Wads01/Wads/assets/148616782/4758810b-aea7-44c9-944f-2550671de9b2"/>
 
 <hr/>
 
